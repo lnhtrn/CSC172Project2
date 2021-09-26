@@ -1,0 +1,15 @@
+Author/Name: Linh Tran
+Contact information: Email: ltran18@u.rochester.edu
+
+Project: Project 2, CSC 172, University of Rochester
+
+Description: This project use Huffman algorithm to encode several source files and decode
+those encoded files based on a frequency file. The encode and decode algorithm are included
+in the HuffmanSubmit.java file. Any output will be written to the files executed within the
+HuffmanSubmit.java file.
+
+Files included: encode and decode method: HuffmanSubmit.java
+
+Reference: the way to implement the encode and decode method has been briefly reviewed from
+"https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/" and instructions from the
+textbooks provided in the course.
